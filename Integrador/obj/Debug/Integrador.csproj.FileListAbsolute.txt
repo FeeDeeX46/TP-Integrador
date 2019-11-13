@@ -1,0 +1,24 @@
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\Integrador\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\Integrador\Integrador\bin\Debug\Integrador.exe
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\Integrador\Integrador\bin\Debug\Integrador.pdb
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\Integrador\Integrador\obj\Debug\Integrador.exe
+C:\Users\Familia Almada\Documents\SharpDevelop Projects\Integrador\Integrador\obj\Debug\Integrador.pdb
+F:\Integrador\Integrador\bin\Debug\Integrador.exe.config
+F:\Integrador\Integrador\bin\Debug\Integrador.exe
+F:\Integrador\Integrador\bin\Debug\Integrador.pdb
+F:\Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+F:\Integrador\Integrador\obj\Debug\Integrador.exe
+F:\Integrador\Integrador\obj\Debug\Integrador.pdb
+D:\Integrador\Integrador\bin\Debug\Integrador.exe.config
+D:\Integrador\Integrador\bin\Debug\Integrador.exe
+D:\Integrador\Integrador\bin\Debug\Integrador.pdb
+D:\Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+D:\Integrador\Integrador\obj\Debug\Integrador.exe
+D:\Integrador\Integrador\obj\Debug\Integrador.pdb
+E:\Integrador\Integrador\bin\Debug\Integrador.exe.config
+E:\Integrador\Integrador\bin\Debug\Integrador.exe
+E:\Integrador\Integrador\bin\Debug\Integrador.pdb
+E:\Integrador\Integrador\obj\Debug\Integrador.exe
+E:\Integrador\Integrador\obj\Debug\Integrador.pdb
+E:\Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
